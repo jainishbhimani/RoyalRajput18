@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Divyarajsinh Chudasama.
-- 👀 I’m interested in Web Development and Cyber Security.
+- 👀 I’m interested in Software Development and Cyber Security.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me at dgchudasama18@gmail.com
