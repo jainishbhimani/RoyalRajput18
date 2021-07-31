@@ -5,6 +5,7 @@
 - 📫 Contact me at dgchudasama18@gmail.com
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoyalRajput18&repo=RoyalRajput18)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyalRajput18)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 RoyalRajput18/RoyalRajput18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
