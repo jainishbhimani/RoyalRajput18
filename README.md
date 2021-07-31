@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyarajsinh Chudasama</h1>
 <h3 align="center">A passionate software developer from India</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royalrajput18&margin-w=5&margin-h=5" alt="royalrajput18" /></a> </p>
 
