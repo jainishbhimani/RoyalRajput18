@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyarajsinh Chudasama</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royalrajput18" alt="royalrajput18" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royalrajput18&margin-w=5" alt="royalrajput18" /></a> </p>
 
 - 🔭 I’m currently working on **Wetune**
 
